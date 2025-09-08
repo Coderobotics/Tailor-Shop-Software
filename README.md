@@ -3,7 +3,7 @@
 
 Tailor Management System is designed for better interaction between Management, Staff and Customers. Tailor Mgmt System handles all the requirements for easy Tailor Management. This tailor software will help the Tailor to structuralize the activities and maintain data transparency where needed and properly store data for regular operations and future analysis and it manages Customers, Workers, Items, Booking, Status, Booking Status, Worker Wages, Database backup/Restore, Booking Graph, Status Graph, Accounts, Reports, Accounts Report and Pending Works. Tailor shop system is developed in C#.Net with MS-Access.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/07/tailor-management-10.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738597229_4a07e7e2e6df6e316552.webp">
 
 <b>Tailor Management System has the following core modules:</b>
 
@@ -23,5 +23,14 @@ Tailor Management System is designed for better interaction between Management, 
 <li>Accounts Report</li>
 <li>Pending Works</li>
 </ul>
-<b>More details and download link:</b>
-<b>https://www.aspscriptsonline.com/product/tailor-shop-software/</b>
+More details and download script
+https://www.aspscriptsonline.com/product/tailor-shop-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
